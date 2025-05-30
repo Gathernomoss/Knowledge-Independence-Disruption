@@ -5,7 +5,7 @@
 This repository contains data and code required to reproduce the findings in paper "Knowledge Independence Breeds Disruption but Limits Recognition". This repository is organized in the following way:
 
 - A data file is anonymized if it contains identifiers that could reveal the identity of papers/authors; all analyzed data can be found in the `data\` directory.
-- Notebooks and code related to the data preparing, analysis and visualization can be found in the 'notebooks\' repository.
+- Notebooks and code related to the data preparing, analysis and visualization can be found in the `notebooks\` repository.
 - `results\figures\` contains the visualization of the main results.
 - `results\results_for_tables\` contains the analysis results for the tables in main context.
 
