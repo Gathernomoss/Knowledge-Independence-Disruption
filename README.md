@@ -6,8 +6,8 @@ This repository contains data and code required to reproduce the findings in pap
 
 - A data file is anonymized if it contains identifiers that could reveal the identity of papers/authors; all analyzed data can be found in the `data\` directory.
 - Notebooks and code related to the data preparing, analysis and visualization can be found in the 'notebooks\' repository.
-- 'results\figures\' contains the visualization of the main results.
-- 'results\results_for_tables\' contains the analysis results for the tables in main context.
+- `results\figures\` contains the visualization of the main results.
+- `results\results_for_tables\` contains the analysis results for the tables in main context.
 
 
 ## System and software requirements
@@ -26,4 +26,4 @@ Python libraries:
 - patsy 0.5.6
 
 
-Each Jupyter Notebook is self-contained and can be executed using a Notebook Server. The expected outputs are in the Jupyter Notebooks themselves, as well as contained in the 'results\' directory.
+Each Jupyter Notebook is self-contained and can be executed using a Notebook Server. The expected outputs are in the Jupyter Notebooks themselves, as well as contained in the `results\` directory.
